@@ -2,3 +2,8 @@ h1 {
   text-align: center;
   color: blue;
 }
+img {
+  margin: 0 auto;
+  display: block;
+  padding: 40px;
+}
